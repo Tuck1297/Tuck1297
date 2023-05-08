@@ -13,6 +13,20 @@
 
 ---
 
+### Summary
+
+---
+
+### Languages and Tools
+
+---
+
+### Stats
+
+---
+
+### Projects
+
 ### :man_technologist: About Me : I am a Full Stack Web Developer from Minnesota, USA!
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
