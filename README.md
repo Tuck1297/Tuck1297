@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.bing.com/th/id/OGC.d0f347a8c1cfda4f05998728281c0dd4?pid=1.7&rurl=https%3a%2f%2fthumbs.gfycat.com%2fPoliticalEarnestChevrotain-size_restricted.gif&ehk=UfokGySKqXQdr%2b5J9mKcqbh9ZFHTd1yM8Ki4ZUoh71Y%3d)" width="100"/>
+  <img src="https://thumbs.gfycat.com/PoliticalEarnestChevrotain-size_restricted.gif" width="100"/>
   <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
