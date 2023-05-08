@@ -1,5 +1,5 @@
 <div align="center"> 
-  ###Tucker Johnson
+  <h1>Tucker Johnson</h1>
 </div>
 
 <div align="center">
