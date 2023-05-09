@@ -13,6 +13,10 @@
 
 ### Reflection
 
+# A 'Bit' About Me
+
+Provide a brief outline of myself. Include introduction of myself, projects I am passionate about and where I am headed as a developer/coder. 
+
 Reflection that will outline at least one of the below projects from a domian-specific point of view. 
 
 ---
