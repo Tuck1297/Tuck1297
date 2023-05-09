@@ -11,17 +11,18 @@
 </div>
 ---
 
-### Reflection
+## Reflection
 
-# A 'Bit' About Me
+### A 'Bit' About Me
 
-Provide a brief outline of myself. Include introduction of myself, projects I am passionate about and where I am headed as a developer/coder. 
+Hey there, my name is Tucker Johnson and I'm a technology enthusiast with a keen interest in web development and virtual reality. I'm fascinated by the way these technologies are transforming the way we interact with one another and the world around us and want in on the fun in developing them. Throughout my entire time in collage at the University of St. Thomas I made it a goal to learn and experiment with as much technology as possible which you will see outlined in my projects section below. My enjoyment in development has been a driving force behind my desire to become a software engineer or web developer. I am fully committed to pursuing this career path and am excited to see what my future holds. 
 
-Reflection that will outline at least one of the below projects from a domian-specific point of view. 
+One project in particular that I am setting my emphasis on is the development of a community driven environment where users can share information regarding outdoor experiences and places thorughout Minnesota to experience. In other words, the combination of snapchat's map feature and Facebook's timeline feature specifically geared towards outdoor enthusiasts. Although in its early stages of development, this project currently has the ability for individuals to sift through State and National park data pertaining to places located in Minnesota. Up to this point the biggest challenge was developing a user interface (UI) that will allow users to easily navigate a map to find the information they are looking for. Specifically, trying to accomodate for users that don't exactly know what they are looking for, but can use this developed application to begin their search. To address these specific problems, I spend alot of time researching best practices that other websites and applications have implemented and experimenting with various styles and layouts before deciding on a design that I felt worked the best. 
+
 
 ---
 
-### Projects
+## Projects
 
 
 - [St. Paul Crime Data Restful API and UI](https://github.com/Tuck1297/St.-Paul-Crime-Project)
@@ -67,7 +68,7 @@ About the project will go here.
 
 ---
 
-### Languages and Tools
+## Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -91,7 +92,7 @@ About the project will go here.
 
 ---
 
-### Stats :
+## Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tuck1297&theme=dark&background=000000)](https://git.io/streak-stats)
 
