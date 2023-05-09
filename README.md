@@ -27,7 +27,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuck1297&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tuck1297)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/Tuck1297/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Tuck1297/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ---
 
