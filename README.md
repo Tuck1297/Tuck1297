@@ -19,13 +19,17 @@ Reflection that will outline at least one of the below projects from a domian-sp
 
 ### Projects
 
-- St. Paul Crime Project
-- Minnesota State Lands and Campgrounds Map Project
-- Computer Graphics Wireframe Project
-- Computer Graphics Light Shading Project
-- Creative Coding Final Project
-- Creative Coding Midterm Project
-- Creative Coding Perlin Noise and Kaleidascope Projects 
+
+- [St. Paul Crime Data Restful API and UI](https://github.com/Tuck1297/St.-Paul-Crime-Project)
+- [Minnesota Park and Campground Map Project](https://github.com/Tuck1297/camping-map-app)
+- [Personal Website](https://github.com/Tuck1297/tuck1297.github.io)
+- [Dynamic Paths Webserver - Sustainability](https://github.com/Tuck1297/dynamic-paths-sustainability)
+- [3D Projections - wireframe Rendering](https://github.com/Tuck1297/cg-3dprojections)
+- [Illumination Shading](https://github.com/Tuck1297/cg-illuminationshading-2)
+- [Interaction with Graphics - Creative Coding Final Project](https://github.com/Tuck1297/Creative-Coding-Final-Project-Code)
+- [Interactive Experiment - Creative Coding Midterm Project](https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding)
+- [Kaleidoscope - Creative Coding](https://github.com/Tuck1297/CreativeCodingKaleidoscope)
+- [Perlin Noise Fireworks - Creative Coding](https://github.com/Tuck1297/CreativeCodingFireworksPerlinNoise)
 
 ---
 
