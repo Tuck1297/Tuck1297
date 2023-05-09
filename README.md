@@ -29,14 +29,41 @@ Reflection that will outline at least one of the below projects from a domian-sp
 About the project will go here. 
 
 - [Minnesota Park and Campground Map Project](https://github.com/Tuck1297/camping-map-app)
+
+About the project will go here. 
+
 - [Personal Website](https://github.com/Tuck1297/tuck1297.github.io)
+
+About the project will go here. 
+
 - [Dynamic Paths Webserver - Sustainability](https://github.com/Tuck1297/dynamic-paths-sustainability)
+
+About the project will go here. 
+
 - [3D Projections - wireframe Rendering](https://github.com/Tuck1297/cg-3dprojections)
+
+About the project will go here. 
+
 - [Illumination Shading](https://github.com/Tuck1297/cg-illuminationshading-2)
+
+About the project will go here. 
+
 - [Interaction with Graphics - Creative Coding Final Project](https://github.com/Tuck1297/Creative-Coding-Final-Project-Code)
+
+About the project will go here. 
+
 - [Interactive Experiment - Creative Coding Midterm Project](https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding)
+
+About the project will go here. 
+
 - [Kaleidoscope - Creative Coding](https://github.com/Tuck1297/CreativeCodingKaleidoscope)
+
+About the project will go here. 
+
 - [Perlin Noise Fireworks - Creative Coding](https://github.com/Tuck1297/CreativeCodingFireworksPerlinNoise)
+
+About the project will go here. 
+
 
 ---
 
