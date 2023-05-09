@@ -34,7 +34,7 @@ This project focused on creating a single-page application that through an inter
 
 - [Personal Website](https://github.com/Tuck1297/tuck1297.github.io)
 
-About the project will go here. 
+Being my first ever developed website, this project aims to share my abilities at using HTML, CSS and JavaScript to create a webpage telling you a bit about myself and my history. On this page you will find information pertaining to my Resume, Project history, a bit more about me. Other than the technology already mentioned, this project also utilizes Foundation to allow the webpage to be accessed and navigated through from any device. This project is a perfect, but simple example, of developing best practices in terms of web development accessible for all devices. 
 
 - [Dynamic Paths Webserver - Sustainability](https://github.com/Tuck1297/dynamic-paths-sustainability)
 
