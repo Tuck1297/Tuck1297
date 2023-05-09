@@ -5,23 +5,27 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     <div id="badges">
-     <a href="https://www.google.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+     <a href="https://www.linkedin.com/in/johnson-tucker-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+     <a href="https://www.instagram.com/humble4realphotos/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
     </div>
 </div>
-
----
-
-## How to Reach Me
-
-- LinkedIn
-- Instagram
-
 ---
 
 ### Reflection
 
-Re
+Reflection that will outline at least one of the below projects from a domian-specific point of view. 
+
+---
+
+### Projects
+
+- St. Paul Crime Project
+- Minnesota State Lands and Campgrounds Map Project
+- Computer Graphics Wireframe Project
+- Computer Graphics Light Shading Project
+- Creative Coding Final Project
+- Creative Coding Midterm Project
+- Creative Coding Perlin Noise and Kaleidascope Projects 
 
 ---
 
@@ -54,16 +58,4 @@ Re
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tuck1297&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuck1297&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Projects
-
-- St. Paul Crime Project
-- Minnesota State Lands and Campgrounds Map Project
-- Computer Graphics Wireframe Project
-- Computer Graphics Light Shading Project
-- Creative Coding Final Project
-- Creative Coding Midterm Project
-- Creative Coding Perlin Noise and Kaleidascope Projects 
 
