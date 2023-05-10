@@ -9,7 +9,6 @@
      <a href="https://www.instagram.com/humble4realphotos/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
     </div>
 </div>
----
 
 ## Reflection
 
@@ -17,8 +16,7 @@
 
 Hey there, my name is Tucker Johnson and I'm a technology enthusiast with a keen interest in web development and virtual reality. I'm fascinated by the way these technologies are transforming the way we interact with one another and the world around us and want in on the fun in developing them. Throughout my entire time in collage at the University of St. Thomas I made it a goal to learn and experiment with as much technology as possible which you will see outlined in my projects section below. My enjoyment in development has been a driving force behind my desire to become a software engineer or web developer. I am fully committed to pursuing this career path and am excited to see what my future holds. 
 
-One project in particular that I am setting my emphasis on is the development of a community driven environment where users can share information regarding outdoor experiences and places thorughout Minnesota to experience. In other words, the combination of snapchat's map feature and Facebook's timeline feature specifically geared towards outdoor enthusiasts. Although in its early stages of development, this project currently has the ability for individuals to sift through State and National park data pertaining to places located in Minnesota. Up to this point the biggest challenge was developing a user interface (UI) that will allow users to easily navigate a map to find the information they are looking for. Specifically, trying to accomodate for users that don't exactly know what they are looking for, but can use this developed application to begin their search. To address these specific problems, I spend alot of time researching best practices that other websites and applications have implemented and experimenting with various styles and layouts before deciding on a design that I felt worked the best. 
-
+One project in particular that I am setting my emphasis on is the development of a community driven environment where users can share information regarding outdoor experiences and places throughout Minnesota. Although this project is currently in its early stages, its main goal is to allow individuals that either LOVE Minnesota or those who live in the state to safely be able to share experiences, thoughts, and ideas with each other. In other words, to create a web application where outdoor enthusiasts can come together and talk, share and interact with one another about their Minnesota experiences. Right now the goal is set on getting the infrastucture set up to fully develop this application for the state of Minnesota, however the eventual goal is to have this application open to those all throughout the USA for all 50 states. 
 
 ---
 
