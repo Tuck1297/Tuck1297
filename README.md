@@ -55,15 +55,15 @@ Creative coding is a concept where one moves away from creating a program for pu
 
 - [Interactive Experiment - Creative Coding Midterm Project](https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding)
 
-About the project will go here. 
+This project like the one above has a creative coding emphasis. It is one that has the same goals as the one above in terms of stimulating one's interaction with code. In particular, this project has a matrix like twist where you are being transported into the inner workings of a computer's operating system. There you will be able to interact with the "Binary code" and see it interact with some preloaded music chosen for this project. This project was implemented using a creative coding JavaScript library called P5.js. 
 
 - [Kaleidoscope - Creative Coding](https://github.com/Tuck1297/CreativeCodingKaleidoscope)
 
-About the project will go here. 
+This project utilizes a JavaScript library called P5.js to create a interactive embeddable web application that simulates a kaleidoscope like toy where the user can control spinning stars from moving inwards and outwards and their color. It makes for a very cool background generator!
 
 - [Perlin Noise Fireworks - Creative Coding](https://github.com/Tuck1297/CreativeCodingFireworksPerlinNoise)
 
-About the project will go here. 
+Like the Kaleidoscope project, this one uses P5.js to create a interactive embeddable web application. However, this one aims at using what is called Perlin Noise to create a firework like effect in the browser. Again, this can be a cool desktop background generator!
 
 
 ---
