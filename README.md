@@ -39,19 +39,19 @@ Being my first ever developed website, this project aims to share my abilities a
 
 - [Dynamic Paths Webserver - Sustainability](https://github.com/Tuck1297/dynamic-paths-sustainability)
 
-About the project will go here. 
+This project focused on developing a dynamic paths website that models a specifc set of data. The data chosen to base the project around is focused on Sustainability and how analyzing such data can help organize and visualize the past and present to see what we as a society can change in the future. This project models renewable fuels (like biofuel and hydro-generated electricity) and their cooresponding consumption rates in the USA. Specifically, the data is organized by Sector (Residential, Industrial, etc...), State, and by Total consumption by year. Created using node, this project is a perfect example of creating a simple server side application to efficiently provide and display data based on the client's needs and wants. 
 
 - [3D Projections - wireframe Rendering](https://github.com/Tuck1297/cg-3dprojections)
 
-About the project will go here. 
+Focused on wireframe model rendering, this project utilizes matrices and arrays to simulate a high coding level implementation of what happens behind the hood in terms of generating graphics on a computer monitor. It utilizes the HTML5 Canvas API to render the wireframe models which are stored in json format either in a extenal file or embedded into the program. This project mainly helped understand the math concepts implemented and the work that the computer has to implement in order to display graphics on the monitor. 
 
 - [Illumination Shading](https://github.com/Tuck1297/cg-illuminationshading-2)
 
-About the project will go here. 
+Taking the next step after the 3D Projections project (see above), this project integrates lighting and textures. The name behind this project partially explains this process as there are two programs that communicate with the GPU (Graphics Processing Unit) that allow the efficient rendering of lighting, colors and textures in a 3D virtual environment which are called shaders. This project mainly focused on developing these shaders to correctly implement the features of creating 3D objects in the environment, applying textures to those objects and adding light(s) to the environment to be able to see shapes and objects placed in the environment. This project emphasized the importance of the shaders and their purpose in generating interesting and complex virtual environments.
 
 - [Interaction with Graphics - Creative Coding Final Project](https://github.com/Tuck1297/Creative-Coding-Final-Project-Code)
 
-About the project will go here. 
+Creative coding is a concept where one moves away from creating a program for purposes of accomplishing a task. Instead it focuses on reflecting one's own perspective and thoughts through their code. This project aimed at accomplishing these tasks by building a interaction based project that allows one to take in and eventually interact with a virtual environment in a couple of different ways. They include through sight, sound and hand tracking. This project utilized a 3D JavaScript library called Three.js to accomplish the graphics while relying on a JS library called Handsfree.js for the hand tracking. If you have a moment this project is one that I would certainly recommend checking out. 
 
 - [Interactive Experiment - Creative Coding Midterm Project](https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding)
 
