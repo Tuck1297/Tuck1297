@@ -39,13 +39,9 @@ The link to the repository below titled "Minnesota Park and Campground Map Proje
 
 - [Illumination Shading](https://github.com/Tuck1297/cg-illuminationshading-2)
 
-Taking the next step after the 3D Projections project (see above), this project integrates lighting and textures. The name behind this project partially explains this process as there are two programs that communicate with the GPU (Graphics Processing Unit) that allow the efficient rendering of lighting, colors and textures in a 3D virtual environment which are called shaders. This project mainly focused on developing these shaders to correctly implement the features of creating 3D objects in the environment, applying textures to those objects and adding light(s) to the environment to be able to see shapes and objects placed in the environment. This project emphasized the importance of the shaders and their purpose in generating interesting and complex virtual environments.
-
 - [Interaction with Graphics - Creative Coding Final Project](https://github.com/Tuck1297/Creative-Coding-Final-Project-Code) 
 
 - [Interactive Experiment - Creative Coding Midterm Project](https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding)
-
-This project like the one above has a creative coding emphasis. It is one that has the same goals as the one above in terms of stimulating one's interaction with code. In particular, this project has a matrix like twist where you are being transported into the inner workings of a computer's operating system. There you will be able to interact with the "Binary code" and see it interact with some preloaded music chosen for this project. This project was implemented using a creative coding JavaScript library called P5.js. 
 
 - [Kaleidoscope - Creative Coding](https://github.com/Tuck1297/CreativeCodingKaleidoscope)
 
