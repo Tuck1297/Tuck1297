@@ -80,6 +80,8 @@ This project like the one above has a creative coding emphasis. It is one that h
     <img src="https://github.com/Tuck1297/Crime-VueJS-UI/blob/main/images/nominatim.png" title="Nominatim" **alt="Nominatim" width="60" height="60"/>
     <img src="https://github.com/Tuck1297/Crime-VueJS-UI/blob/main/images/turf.jpg" title="Turf" **alt="Turf" width="60" height="60"/>
     <img src="https://p5js.org/assets/img/p5js.svg" **alt="P5" width="60" title="P5" height="60"/>
+    <img src="https://handsfreejs.netlify.app/branding/handsfree.png" title="Handsfree.js" **alt="Handsfree.js" height="60" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" title="Blender" **alt="Blender" height="60" />
 </div>
 
 ---
