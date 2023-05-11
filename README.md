@@ -31,7 +31,7 @@ The link to the repository below titled "Minnesota Park and Campground Map Proje
 
 This project focused on creating a system that can efficiently filter thorugh and handle a massive amount of crime data maintained by the city of St. Paul in Minnesota. Utilizing a map and a table representing the crime data, a user can select an address related to a specific crime and be given an estimated location on the map that represens where the crime took place. There is also functionality allowing users to add and delete crimes from the database. This application was build using Node for the backend and Vue3 for the front-end. This project is a great example of how technology can be used to make data more accessible and easier to understand. 
 
-- [Minnesota Park and Campground Map Project](https://github.com/Tuck1297/camping-map-app)
+- [Minnesota Park and Campground Map Project](https://github.com/Tuck1297/mn-map-repo)
 
 This project focused on creating a single-page application that through an interactive map users can easily look up specific information about any of Minnesota's State Parks, Recreation Areas, National Forests, Waysides, or campgrounds. Although in its earliest stages, this project aims to become a website that all outdoor enthusiasts in Minnesota can come visit to get the info they need for their next adventure. The front end work is done using Vue3 and the back end and hosting currently is managed by Firebase. This project is a perfect example of providing a easy way to find new outdoor experiences while eliminating hours of research. 
 
