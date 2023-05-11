@@ -41,9 +41,7 @@ The link to the repository below titled "Minnesota Park and Campground Map Proje
 
 Taking the next step after the 3D Projections project (see above), this project integrates lighting and textures. The name behind this project partially explains this process as there are two programs that communicate with the GPU (Graphics Processing Unit) that allow the efficient rendering of lighting, colors and textures in a 3D virtual environment which are called shaders. This project mainly focused on developing these shaders to correctly implement the features of creating 3D objects in the environment, applying textures to those objects and adding light(s) to the environment to be able to see shapes and objects placed in the environment. This project emphasized the importance of the shaders and their purpose in generating interesting and complex virtual environments.
 
-- [Interaction with Graphics - Creative Coding Final Project](https://github.com/Tuck1297/Creative-Coding-Final-Project-Code)
-
-Creative coding is a concept where one moves away from creating a program for purposes of accomplishing a task. Instead it focuses on reflecting one's own perspective and thoughts through their code. This project aimed at accomplishing these tasks by building a interaction based project that allows one to take in and eventually interact with a virtual environment in a couple of different ways. They include through sight, sound and hand tracking. This project utilized a 3D JavaScript library called Three.js to accomplish the graphics while relying on a JS library called Handsfree.js for the hand tracking. If you have a moment this project is one that I would certainly recommend checking out. 
+- [Interaction with Graphics - Creative Coding Final Project](https://github.com/Tuck1297/Creative-Coding-Final-Project-Code) 
 
 - [Interactive Experiment - Creative Coding Midterm Project](https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding)
 
@@ -51,11 +49,7 @@ This project like the one above has a creative coding emphasis. It is one that h
 
 - [Kaleidoscope - Creative Coding](https://github.com/Tuck1297/CreativeCodingKaleidoscope)
 
-This project utilizes a JavaScript library called P5.js to create a interactive embeddable web application that simulates a kaleidoscope like toy where the user can control spinning stars from moving inwards and outwards and their color. It makes for a very cool background generator!
-
 - [Perlin Noise Fireworks - Creative Coding](https://github.com/Tuck1297/CreativeCodingFireworksPerlinNoise)
-
-Like the Kaleidoscope project, this one uses P5.js to create a interactive embeddable web application. However, this one aims at using what is called Perlin Noise to create a firework like effect in the browser. Again, this can be a cool desktop background generator!
 
 
 ---
@@ -85,6 +79,7 @@ Like the Kaleidoscope project, this one uses P5.js to create a interactive embed
     <img src="https://github.com/Tuck1297/Crime-VueJS-UI/blob/main/images/foundation.svg" title="Foundation" **alt="Foundation" width="60" height="60"/>
     <img src="https://github.com/Tuck1297/Crime-VueJS-UI/blob/main/images/nominatim.png" title="Nominatim" **alt="Nominatim" width="60" height="60"/>
     <img src="https://github.com/Tuck1297/Crime-VueJS-UI/blob/main/images/turf.jpg" title="Turf" **alt="Turf" width="60" height="60"/>
+    <img src="https://p5js.org/assets/img/p5js.svg" **alt="P5" width="60" title="P5" height="60"/>
 </div>
 
 ---
