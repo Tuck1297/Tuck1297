@@ -78,6 +78,7 @@ The link to the repository below titled "Minnesota Park and Campground Map Proje
     <img src="https://p5js.org/assets/img/p5js.svg" **alt="P5" width="60" title="P5" height="60"/>
     <img src="https://handsfreejs.netlify.app/branding/handsfree.png" title="Handsfree.js" **alt="Handsfree.js" height="60" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" title="Blender" **alt="Blender" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1920px-WebGL_Logo.svg.png" title="WebGL" **alt="WebGL" height="60" />
 </div>
 
 ---
