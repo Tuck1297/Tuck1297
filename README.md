@@ -35,11 +35,7 @@ The link to the repository below titled "Minnesota Park and Campground Map Proje
 
 - [Dynamic Paths Webserver - Sustainability](https://github.com/Tuck1297/dynamic-paths-sustainability)
 
-This project focused on developing a dynamic paths website that models a specifc set of data. The data chosen to base the project around is focused on Sustainability and how analyzing such data can help organize and visualize the past and present to see what we as a society can change in the future. This project models renewable fuels (like biofuel and hydro-generated electricity) and their cooresponding consumption rates in the USA. Specifically, the data is organized by Sector (Residential, Industrial, etc...), State, and by Total consumption by year. Created using node, this project is a perfect example of creating a simple server side application to efficiently provide and display data based on the client's needs and wants. 
-
 - [3D Projections - wireframe Rendering](https://github.com/Tuck1297/cg-3dprojections)
-
-Focused on wireframe model rendering, this project utilizes matrices and arrays to simulate a high coding level implementation of what happens behind the hood in terms of generating graphics on a computer monitor. It utilizes the HTML5 Canvas API to render the wireframe models which are stored in json format either in a extenal file or embedded into the program. This project mainly helped understand the math concepts implemented and the work that the computer has to implement in order to display graphics on the monitor. 
 
 - [Illumination Shading](https://github.com/Tuck1297/cg-illuminationshading-2)
 
