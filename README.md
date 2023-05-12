@@ -47,7 +47,7 @@ The link to the repository below titled "Minnesota Park and Campground Map Proje
 
 - [Perlin Noise Fireworks - Creative Coding](https://github.com/Tuck1297/CreativeCodingFireworksPerlinNoise)
 
-- [Java MySQL Database Connector Program](https://github.com/Tuck1297/Database-Connector-Program)
+<!-- - [Java MySQL Database Connector Program](https://github.com/Tuck1297/Database-Connector-Program) -->
 
 <!-- - [Risen Christ Catholic School Tuition Calculation Project - Senior Capstone](https://www.google.com/) -->
 
