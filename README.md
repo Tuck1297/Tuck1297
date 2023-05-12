@@ -54,6 +54,15 @@ The link to the repository below titled "Minnesota Park and Campground Map Proje
 
 ---
 
+## Career Improvement Roadmap
+- [X] Complete JPMorgan Chase Financial Forge Virtual Internship Activities on Agile and Software Engineer Methodologies
+- [ ] Learn how to use React with Next.js and Tailwind
+- [ ] Take Meta Front End Development course on Coursera [here](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- [ ] Take Meta Back End Development course on Coursera [here](https://www.coursera.org/professional-certificates/meta-back-end-developer)
+- [ ] Take online course on Virtural Reality game development from University of London in Coursera [here](https://www.coursera.org/learn/making-virtual-reality-game)
+- [ ] Take online Harvard course on Machine Learning [here](https://pll.harvard.edu/course/data-science-machine-learning?delta=5)
+- [ ] Take online Harvard course on Python and JavaScript Web Development [here](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=1)
+
 ## Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
