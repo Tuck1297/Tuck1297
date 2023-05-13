@@ -26,26 +26,25 @@ The link to the repository below titled "Minnesota Park and Campground Map Proje
 
 ## Projects
 
+- [Minnesota Park and Campground Map Project](https://github.com/Tuck1297/mn-map-repo) ~ STATUS: Ongoing
 
-- [St. Paul Crime Data Restful API and UI](https://github.com/Tuck1297/St.-Paul-Crime-Project) 
+- [St. Paul Crime Data Restful API and UI](https://github.com/Tuck1297/St.-Paul-Crime-Project) ~ STATUS: Complete 12/2022
 
-- [Minnesota Park and Campground Map Project](https://github.com/Tuck1297/mn-map-repo)
+- [Dynamic Paths Webserver - Sustainability](https://github.com/Tuck1297/dynamic-paths-sustainability) ~ STATUS: Complete 11/2022
 
-- [Personal Website](https://github.com/Tuck1297/tuck1297.github.io)
+- [Personal Website](https://github.com/Tuck1297/tuck1297.github.io) ~ STATUS: Complete 10/2022
 
-- [Dynamic Paths Webserver - Sustainability](https://github.com/Tuck1297/dynamic-paths-sustainability)
+- [Illumination Shading](https://github.com/Tuck1297/cg-illuminationshading-2) ~ STATUS: Complete 4/2022
 
-- [3D Projections - wireframe Rendering](https://github.com/Tuck1297/cg-3dprojections)
+- [3D Projections - wireframe Rendering](https://github.com/Tuck1297/cg-3dprojections) ~ STATUS: Complete 3/2022
 
-- [Illumination Shading](https://github.com/Tuck1297/cg-illuminationshading-2)
+- [Interaction with Graphics - Creative Coding Final Project](https://github.com/Tuck1297/Creative-Coding-Final-Project-Code) ~ STATUS: Complete 5/2022 
 
-- [Interaction with Graphics - Creative Coding Final Project](https://github.com/Tuck1297/Creative-Coding-Final-Project-Code) 
+- [Interactive Experiment - Creative Coding Midterm Project](https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding) ~ STATUS: Complete 3/2022
 
-- [Interactive Experiment - Creative Coding Midterm Project](https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding)
+- [Kaleidoscope - Creative Coding](https://github.com/Tuck1297/CreativeCodingKaleidoscope) ~ STATUS: Complete 3/2022
 
-- [Kaleidoscope - Creative Coding](https://github.com/Tuck1297/CreativeCodingKaleidoscope)
-
-- [Perlin Noise Fireworks - Creative Coding](https://github.com/Tuck1297/CreativeCodingFireworksPerlinNoise)
+- [Perlin Noise Fireworks - Creative Coding](https://github.com/Tuck1297/CreativeCodingFireworksPerlinNoise) ~ STATUS: Complete 4/2022
 
 <!-- - [Java MySQL Database Connector Program](https://github.com/Tuck1297/Database-Connector-Program) -->
 
