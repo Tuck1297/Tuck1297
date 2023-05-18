@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Tuck1297/tuck1297.github.io/blob/master/Media/Code-Inspiration-Yellowstone.jpg" width="600" height="300"/>
+  <img src="https://github.com/Tuck1297/tuck1297.github.io/blob/master/Media/Code-Inspiration-Yellowstone.jpg" width="600"/>
     <div id="badges">
      <a href="https://www.linkedin.com/in/johnson-tucker-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
      <a href="https://www.instagram.com/humble4realphotos/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
@@ -58,9 +58,11 @@ Please note that while the project is still under development, I am continuously
 ---
 
 ## Career Improvement Roadmap
+
 <div align="center">
-<img src="https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding/blob/main/Images/homeimg.jpg" width="600" height="300"/>
-  </div>
+  <img src="https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding/blob/main/Images/homeimg.jpg" width="600" height="300"/>
+</div>
+  
 - [X] Complete JPMorgan Chase Financial Forge Virtual Internship Activities on Agile and Software Engineer Methodologies
 - [ ] Learn how to use React with Next.js and Tailwind
 - [ ] Take Meta Front End Development course on Coursera [here](https://www.coursera.org/professional-certificates/meta-front-end-developer)
