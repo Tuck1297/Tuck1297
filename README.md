@@ -30,7 +30,7 @@ Please note that while the project is still under development, I am continuously
 
 ## Projects
 
-- [Minnesota Park and Campground Map Project](https://github.com/Tuck1297/mn-map-repo) ~ STATUS: Ongoing
+- [Explore More Website with Interactive Map Project](https://github.com/Tuck1297/mn-map-repo) ~ STATUS: Ongoing
 
 - [St. Paul Crime Data Restful API and UI](https://github.com/Tuck1297/St.-Paul-Crime-Project) ~ STATUS: Complete 12/2022
 
