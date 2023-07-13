@@ -57,7 +57,7 @@ Please note that while the project is still under development, I am continuously
 
 ---
 
-## Career Improvement Roadmap
+## Career Development Roadmap
 
 <div align="center">
   <img src="https://github.com/Tuck1297/InteractiveExperiment_CreativeCoding/blob/main/Images/homeimg.jpg" width="600" height="300"/>
