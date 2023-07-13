@@ -64,7 +64,8 @@ Please note that while the project is still under development, I am continuously
 </div>
   
 - [X] Complete JPMorgan Chase Financial Forge Virtual Internship Activities on Agile and Software Engineer Methodologies
-- [ ] Learn how to use React with Next.js and Tailwind
+- [X] Learn fundamentals on how to use React with Next.js and Bootstrap
+- [ ] Learn how to use Tailwind
 - [X] Take Meta Front End Development course on Coursera [here](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 - [ ] Take Meta Back End Development course on Coursera [here](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 - [ ] Take online course on Virtural Reality game development from University of London in Coursera [here](https://www.coursera.org/learn/making-virtual-reality-game)
