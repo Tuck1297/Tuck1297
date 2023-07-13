@@ -93,6 +93,9 @@ Please note that while the project is still under development, I am continuously
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" **alt="Vue" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" **alt="Gimp" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="60" height="60"/>
   <img src="https://camo.githubusercontent.com/efe5825f7b954f1bdfea52541875c2d3c05da61c645a59d4b08c03e1ff6fbc4c/68747470733a2f2f7261776769742e636f6d2f4c6561666c65742f4c6561666c65742f6d61696e2f7372632f696d616765732f6c6f676f2e737667" title="Leaflet" **alt="Leaflet" height="60"/>
       <img src="https://github.com/Tuck1297/Crime-VueJS-UI/blob/main/images/splide.png" title="Splide" **alt="Splide" height="60"/>
     <img src="https://github.com/Tuck1297/Crime-VueJS-UI/blob/main/images/foundation.svg" title="Foundation" **alt="Foundation" width="60" height="60"/>
