@@ -1,6 +1,6 @@
 <div align="center"> 
   <h1>Tucker Johnson</h1>
-  <p><em>Full Stack Developer | Web & VR Enthusiast</em></p>
+  <p><em>Software Developer @ Collabetive | MS Software Engineering Student</em></p>
 </div>
 
 <div align="center">
@@ -14,13 +14,14 @@
 
 ## 👋 About Me
 
-Hey! I'm Tucker Johnson—a software engineer passionate about building meaningful web applications that solve real-world problems. With a BS in Computer Science from the University of St. Thomas, I love experimenting with cutting-edge tech, from interactive maps to VR experiences.
+Hey! I'm Tucker Johnson—a software developer at **Collabetive** and a Masters student in Software Engineering at the **University of St. Thomas**, where I'm strengthening my cloud and database skills. I'm passionate about building meaningful web applications that solve real-world problems and love experimenting with AI and AI prompt engineering.
 
 **What gets me excited:**
-- 🗺️ Creating location-based applications that help people discover and explore
-- 🎨 Blending creative design with functional code
-- 🚀 Learning new frameworks and pushing the boundaries of web development
-- 🏕️ Building tools that connect people with outdoor experiences
+- 💼 Business-first projects that deliver valuable time-savings and measurable business value
+- 🗺️ Geo-focused mapping projects that help people discover and explore
+- 🎨 Creating exceptional user interfaces and user experiences
+- 🤖 Experimenting with AI and exploring AI prompt engineering
+- ☁️ Deepening my cloud computing and database expertise
 
 **Currently working on:** An interactive web app consolidating Minnesota's outdoor recreation info—think state parks, campgrounds, and trails all in one searchable, map-powered platform. Check out the [Explore More MN project](https://github.com/Tuck1297/mn-map-repo) to see it in action!
 
