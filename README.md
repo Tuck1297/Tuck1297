@@ -1,38 +1,29 @@
 <div align="center"> 
   <h1>Tucker Johnson</h1>
+  <p><em>Software Developer @ Collabetive | MS Software Engineering Student</em></p>
 </div>
 
 <div align="center">
   <img src="https://github.com/Tuck1297/tuck1297.github.io/blob/master/Media/Code-Inspiration-Yellowstone.jpg" width="600"/>
     <div id="badges">
+     <a href="https://tuckerjohnson.me/home"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/></a>
      <a href="https://www.linkedin.com/in/johnson-tucker-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
      <a href="https://www.instagram.com/humble4realphotos/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
     </div>
 </div>
 
-## Reflection
+## 👋 About Me
 
-### A 'Bit' About Me
+Hey! I'm Tucker Johnson—a software developer at **Collabetive** and a Masters student in Software Engineering at the **University of St. Thomas**, where I'm strengthening my cloud and database skills. I'm passionate about building meaningful web applications that solve real-world problems and love experimenting with AI and AI prompt engineering.
 
-Hey there, my name is Tucker Johnson and I'm a technology enthusiast with a keen interest in web development and virtual reality. I'm fascinated by the way these technologies are transforming the way we interact with one another and the world around us. Throughout my entire time at the University of St. Thomas pursuing a BS in Computer Science, I made it a goal of mine to learn and experiment with as much technology as possible. My enjoyment in development has been a driving force behind my desire to become a software engineer or web developer. I am fully committed to pursuing this career path and am excited to see what my future holds. 
+**What gets me excited:**
+- 💼 Business-first projects that deliver valuable time-savings and measurable business value
+- 🗺️ Geo-focused mapping projects that help people discover and explore
+- 🎨 Creating exceptional user interfaces and user experiences
+- 🤖 Experimenting with AI and exploring AI prompt engineering
+- ☁️ Deepening my cloud computing and database expertise
 
-One project in particular that my focus is set on is the development of a application where users can easily retrieve and even share information regarding outdoor experiences and places thorughout the state of Minnesota. Although this project is currently in its early stages, its main purpose is to provide a service where individuals are able to come to one place to find all the information they need for their next Minnesota adventure. 
-
-On the technical side of things, the project is concentrating on certain core functionality, such as a page hosting details for categorized areas (state parks, state forests, etc.), a blog page, an interactive map to find places by location, a recommendation headbar based on set location, weather, and user preferences, and so much more! 
-
-On the domain side, this initiative attempts to solve the inconvenience people have while searching the internet for information about outdoor activities, campgrounds, and resorts. Many of us have felt the inconvenience of not having precise information, such as an extensive list of campgrounds situated near one's final destination for a weekend road trip. To access this information right now, you'll need to visit a number of websites based on your intended search. One example would be when I wanted to know the available campgrounds, resorts and cabin rentals along the north shore. This currently entails visiting MN's DNR website for state park and state forsest campground information, google for privately run campgrounds and then Superior National Park's website to retrieve information about their campgrounds. As noted, it's a time-consuming process that detracts from the joy of planning a weekend getaway.
-
-Fortunately, this project's main intention is to mitigate these challenges. This website intends to be a one-stop shop for all things pertaining to outdoor activities, campgrounds, and resorts by consolidating the pertinent information. It also aims at simplifying the process of planning an  outdoor adventure be it a day trip or a weekend getaway. 
-
-Please note that while the project is still under development, I am continuously working on expanding its functionality. If you would like to learn more about this project, you can check it out in the repository below labeled "Minnestoa Park and Campground Map Project"
-
----
-
-## RCDS Capstone Project
-
-  <img src="https://raw.githubusercontent.com/Tuck1297/image_repo/main/RCDS%20Web%20Capture%201.JPG" width="600"/>
-
-  https://github.com/Tuck1297/image_repo/blob/main/Google.webm
+**Currently working on:** An interactive web app consolidating Minnesota's outdoor recreation info—think state parks, campgrounds, and trails all in one searchable, map-powered platform. Check out the [Explore More MN project](https://github.com/Tuck1297/mn-map-repo) to see it in action!
 
 ---
 
